@@ -47,7 +47,7 @@ const Login = () => {
     const SignIn = () =>
     {
         formik.handleSubmit();
-        navigate("/");
+        navigate("/home");
     };
 
 
