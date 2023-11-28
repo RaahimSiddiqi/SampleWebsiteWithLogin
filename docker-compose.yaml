@@ -1,0 +1,10 @@
+version: "3.8"
+services:
+  website:
+    build: .
+    container_name: website_c
+    ports: 
+      - '5173:5173'
+    stdin_open: true
+    tty: true
+  
