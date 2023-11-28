@@ -37,7 +37,7 @@ const Login = () => {
         formik.handleSubmit();
 
         if (formik.values.email === "raahim@email.com" && formik.values.password === "123") {
-            navigate("/");
+            navigate("/home");
         }
         else {
             console.log("Error")
