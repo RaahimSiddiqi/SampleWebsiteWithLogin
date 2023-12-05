@@ -9,7 +9,7 @@ const Home = () => {
                 </CardHeader>
                 <CardContent>
                     <CardDescription>
-                        This is the home page. Welcome Raahim.
+                        This is the home page. Welcome, Raahim.
                     </CardDescription>
                 </CardContent>
             </Card>
