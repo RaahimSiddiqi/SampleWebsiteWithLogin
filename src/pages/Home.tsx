@@ -5,7 +5,7 @@ const Home = () => {
         <div>
             <Card className="container my-8">
                 <CardHeader>
-                    <CardTitle>Home</CardTitle>
+                    <CardTitle>Home Page</CardTitle>
                 </CardHeader>
                 <CardContent>
                     <CardDescription>
